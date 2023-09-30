@@ -1,0 +1,3 @@
+[submodule "ZXing.Delphi"]
+	path = ZXing.Delphi
+	url = https://github.com/Spelt/ZXing.Delphi
