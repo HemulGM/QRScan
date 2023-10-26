@@ -7,7 +7,7 @@ uses
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, FMX.StdCtrls,
   FMX.Ani, FMX.Layouts, FMX.Objects, FMX.Controls.Presentation, FMX.Media,
   FMX.TabControl, FMX.Platform, FMX.ListBox, QRS.Scanner, Skia, Skia.FMX,
-  FMX.Effects;
+  FMX.Effects, FMX.Memo.Types, FMX.ScrollBox, FMX.Memo;
 
 type
   TFormMain = class(TForm)
@@ -41,6 +41,9 @@ type
     Path3: TPath;
     Path1: TPath;
     Path4: TPath;
+    MemoResult: TMemo;
+    Rectangle1: TRectangle;
+    Line1: TLine;
     procedure FormCreate(Sender: TObject);
     procedure CameraComponentSampleBufferReady(Sender: TObject; const ATime: TMediaTime);
     procedure TabControlMainChange(Sender: TObject);
@@ -59,7 +62,6 @@ type
     function AppEventHandler(AAppEvent: TApplicationEvent; AContext: TObject): Boolean;
     procedure StopScan;
     procedure FOnScanResult(Sender: TObject);
-    { Private declarations }
   public
     { Public declarations }
   end;
@@ -183,7 +185,9 @@ begin
     Exit;
   if not CameraComponent.Active then
     Exit;
-  ShowMessage(FQRScan.LastResult);
+  MemoResult.Text := FQRScan.LastResult;
+  ListBoxHistory.Items.Add(FQRScan.LastResult);
+  OpenTab(TabItemHistory, False);
 end;
 
 procedure TFormMain.FormCreate(Sender: TObject);
@@ -201,6 +205,7 @@ begin
   ListBoxHistory.AniCalculations.Interval := 1;
   ListBoxHistory.AniCalculations.Averaging := True;
   ListBoxHistory.AniCalculations.BoundsAnimation := True;
+  TabControlMain.ActiveTab := TabItemScan;
   TabControlMainChange(nil);
 end;
 

@@ -35,7 +35,7 @@ implementation
 constructor TQRScan.Create;
 begin
   inherited;
-  FScanManager := TScanManager.Create(TBarcodeFormat.QR_CODE, nil);
+  FScanManager := TScanManager.Create(TBarcodeFormat.Auto, nil);
   FScanManager.OnResultPoint := OnResultPointHandler;
   FTask := nil;
   FPoints := TThreadList<TPointF>.Create;

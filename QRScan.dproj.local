@@ -22,17 +22,17 @@
     <Transaction>1899.12.30 00:00:00.000.235,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.BarcodeFormat.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.500,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.PlanarYUVLuminanceSource.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.409,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.InvertedLuminanceSource.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.685,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.AlignmentPatternFinder.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,=D:\Projects\QRScan\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.633,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.Code39Reader.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.006,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ResultMetadataType.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.597,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\ZXing.ScanManager.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.780,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.ITFReader.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.973,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ReadResult.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,=D:\Projects\#Default\Unit5.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.572,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.Version.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.780,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.Detector.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.193,=D:\Projects\#Default\Unit5.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.708,=D:\Projects\QRScan\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.469,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.LuminanceSource.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ReadResult.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.AlignmentPatternFinder.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.311,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXIng.ByteSegments.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.291,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.DataBlock.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.033,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\ZXing.QrCode.QRCodeReader.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.310,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.GlobalHistogramBinarizer.pas</Transaction>
@@ -40,8 +40,8 @@
     <Transaction>1899.12.30 00:00:00.000.213,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.Version.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.433,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.ErrorCorrectionLevel.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.363,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.CharacterSetECI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.LuminanceSource.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.333,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.DataMask.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.311,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXIng.ByteSegments.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.125,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\Detector\ZXing.Common.Detector.WhiteRectangleDetector.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.973,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.UPCEANExtensionSupport.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.092,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ResultPointImplementation.pas</Transaction>
@@ -53,8 +53,8 @@
     <Transaction>1899.12.30 00:00:00.000.262,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.BitSource.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.842,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.FinderPattern.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.135,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.DecodedBitStreamParser.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.868,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.FinderPatternFinder.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.361,D:\Projects\QRScan\QRScan.dproj=D:\Projects\#Default\Project38.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.FinderPatternFinder.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.399,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.Decoder.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.559,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.Common.GridSampler.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.608,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.Code128Reader.pas</Transaction>
@@ -62,8 +62,8 @@
     <Transaction>1899.12.30 00:00:00.000.061,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.BitMatrixParser.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.590,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.Common.PerspectiveTransform.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.995,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.UPCEANReader.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.202,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ReedSolomon\ZXing.Common.ReedSolomon.ReedSolomonDecoder.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.040,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ResultPoint.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.EANManufacturerOrgSupport.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.FinderPatternImplementation.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.656,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.AlignmentPattern.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.005,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\ZXing.Datamatrix.DataMatrixReader.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.563,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.RGBLuminanceSource.pas</Transaction>
@@ -72,19 +72,19 @@
     <Transaction>1899.12.30 00:00:00.000.063,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\Detector\ZXing.Common.Detector.MathUtils.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.396,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.Common.BitArray.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.278,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Filtering\ZXing.BinaryBitmap.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.898,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.FinderPatternImplementation.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.ResultPoint.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.FormatInformation.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.725,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.DefaultGridSampler.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.697,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.EAN13Reader.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.546,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.QRCodeDecoderMetaData.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.755,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\1D Barcodes\ZXing.OneD.EANManufacturerOrgSupport.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ReedSolomon\ZXing.Common.ReedSolomon.ReedSolomonDecoder.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.749,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Detector\ZXing.QrCode.Internal.AlignmentPatternImplementation.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.143,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.StringUtils.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.690,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.DecoderResult.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.758,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\Common\ZXing.EncodeHintType.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.112,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.DataBlock.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.462,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.FormatInformation.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,=D:\Projects\QRScan\ZXing.Delphi\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.QRCodeDecoderMetaData.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile Android64="127.0.0.1:58526" Android="127.0.0.1:58526"/>
+		<NoProfile Android64="" Android=""/>
 	</ActiveMobileDevice>
 </BorlandProject>
